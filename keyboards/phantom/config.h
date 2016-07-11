@@ -26,7 +26,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define DEVICE_VER      0x0003
 #define MANUFACTURER    PHANTOM
 #define PRODUCT         PHANTOM RGB MOD
-#define DESCRIPTION     QMK keyboard firmware for PHANTOM TKL
+#define DESCRIPTION     QMK keyboard firmware for PHANTOM TKL BY ADAMCLERK
 
 /* key matrix size */
 #define MATRIX_ROWS 6
